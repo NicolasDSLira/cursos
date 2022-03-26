@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Qualificação profissional de criação de sites e plataformas digitais",
+        "area": "TI",
+        "institution": "ETEC Poá",
+        "duration": "200 horas",
+        "situation": "Concluído"
+    },
+    {
+        "id": 2,
+        "name": "Técnico em desenvolvimento de sistemas",
+        "area": "TI",
+        "institution": "ETEC Guaianazes",
+        "duration": "1 ano e 6 meses",
+        "situation": "Concluído"
+    },
+    {
+        "id": 3,
+        "name": "RH do trabalho",
+        "area": "RH",
+        "institution": "Microlins Suzano",
+        "duration": "12 horas",
+        "situation": "Concluído"
+    },
+    {
+        "id": 4,
+        "name": "Fundamentos das aplicações Móveis",
+        "area": "TI",
+        "institution": "Fundação Bradesco",
+        "duration": "12 horas",
+        "situation": "Concluído"
+    },
+    {
+        "id": 5,
+        "name": "Introdução ao Git e ao GitHub",
+        "area": "TI",
+        "institution": "Digital Innovation One",
+        "duration": "5 horas",
+        "situation": "Concluído"
+    },
+    {
+        "id": 6,
+        "name": "Conceitos de responsividade  e experiência do usuário",
+        "area": "TI",
+        "institution": "Digital Innovation One",
+        "duration": "1 horas",
+        "situation": "Concluído"
+    },
+    {
+        "id": 7,
+        "name": "JavaScript ES6 Essencial",
+        "area": "TI",
+        "institution": "Digital Innovation One",
+        "duration": "4 horas",
+        "situation": "Concluído"
+    },
+    {
+        "id": 8,
+        "name": "Programação para internet com JavaScript",
+        "area": "TI",
+        "institution": "Digital Innovation One",
+        "duration": "4 horas",
+        "situation": "Concluído"
+    },
+    {
+        "id": 9,
+        "name": "Fundamentos de Arquitetura de sistemas",
+        "area": "TI",
+        "institution": "Digital Innovation One",
+        "duration": "7 horas",
+        "situation": "Concluído"
+    },
+    {
+        "id": 10,
+        "name": "Arquitetura de sistemas Avançados",
+        "area": "TI",
+        "institution": "Digital Innovation One",
+        "duration": "3 horas",
+        "situation": "Concluído"
+    }
+]
